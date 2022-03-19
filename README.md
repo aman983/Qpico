@@ -16,22 +16,22 @@ Simulating a Quanutum Computer on Raspberry pi Pico
     </ol> 
   </li>
   
-  <li>
-    <b>Install Thonny python IDE</b> 
+  <br><li>
+    <b>Install micro python on pico</b> 
     <ol><li>Refer this Video  <a href="https://www.youtube.com/watch?v=_ouzuI_ZPLs">Here</a> </li>
     </ol> 
   </li>
 
-  <li>
+  <br><li>
     <b>Install libraries for Qpico</b> 
-    <ol><li>Install SSD 1306 library from thonny python IDE</li>
+    <ol><li>Add steps Install SSD 1306 library from thonny python IDE</li>
     <li>Download the simulator.py from the github repo</li>
     <li>save the simulator.py in lib folder </li>
     </ol> 
   </li>
   
   
-  <li><b>Circuit connections</b> <ol>
+ <br> <li><b>Circuit connections</b> <ol>
     <li>Pin 0 to SDA</li>
     <li>Pin 1 to SCL</li>
     <li>3.3v to VCC</li>
