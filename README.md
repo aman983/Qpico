@@ -15,6 +15,12 @@ Simulating a Quanutum Computer on Raspberry pi Pico
     <li>For Windows/Mac Download setup from --> <a href="https://thonny.org/">Here</a></li>
     </ol> 
   </li>
+  
+  <li>
+    <b>Install Thonny python IDE</b> 
+    <ol><li>Refer this Video  <a href="https://www.youtube.com/watch?v=_ouzuI_ZPLs">Here</a> </li>
+    </ol> 
+  </li>
 
   <li>
     <b>Install libraries for Qpico</b> 
