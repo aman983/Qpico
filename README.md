@@ -19,11 +19,6 @@ Simulating a Quanutum Computer on Raspberry pi Pico
     </ol> 
   </li>
   
-  <li>
-    <b>How to simulate on Qpico</b> 
-    <ol><li>add steps</li>
-    </ol> 
-  </li>
   
   <li><b>Circuit connections</b> <ol>
     <li>Pin 0 to SDA</li>
@@ -33,10 +28,24 @@ Simulating a Quanutum Computer on Raspberry pi Pico
     </ol> 
   </li>
   
-  <p align="center">
+   <p align="center">
   <img src="pico circuit.jpg" width="350" title="Circuit Diagram"
 </p>
+
+  
+  
+  <li>
+    <b>How to simulate on Qpico</b> 
+    <ol><li>add steps</li>
+    </ol> 
+  </li>
+  
+  
+  
+ 
 </ol>
+
+
 <pre><code>coppy command</code></pre>
   
   <em>*Currently You can simulate upto 5 Qubits on Qpico.</em> 
