@@ -24,48 +24,65 @@ Simulating a Quanutum Computer on Raspberry pi Pico
 
   <br><li>
     <b>Install libraries for Qpico</b> 
-    <ol><li>Add steps Install SSD 1306 library from thonny python IDE</li>
-    <li>Download the simulator.py from the github repo</li>
-    <li>save the simulator.py in lib folder </li>
-    </ol> 
-  </li>
-  
-  
+    <ol><li>Click on tools / manage packages</li>
    <p align="center">
   <img src="Resources/1.png" width="950" title="Circuit Diagram"
 </p>
-     
-   <p align="center">
-  <img src="Resources/2.png" width="950" title="Circuit Diagram"
-</p>
-   
-   <p align="center">
+      
+ <li>Search for ssd 1306 library. Download micropython-ssd1306 library.</li>
+  <p align="center">
   <img src="Resources/3.png" width="950" title="Circuit Diagram"
 </p>
-       
-   <p align="center">
+  <li>A lib folder will be created containing ssd1306.py </li>
+    
+  <p align="center">
   <img src="Resources/4.png" width="950" title="Circuit Diagram"
 </p>
-         
-   <p align="center">
+    
+  <li>Download the repository and open the simulator.py with micropython </li>
+  <p align="center">
   <img src="Resources/5.png" width="950" title="Circuit Diagram"
 </p>
-           
-   <p align="center">
+    
+  <li>Press <code>Ctrl+Shift+s</code> on keyboard</li>
+  <p align="center">
   <img src="Resources/6 ctrl+shif+s.png" width="950" title="Circuit Diagram"
 </p>
-             
-   <p align="center">
+    
+  <li>click save on raspberry pi pico</li>
+  <p align="center">
   <img src="Resources/7.png" width="950" title="Circuit Diagram"
 </p>
-               
-   <p align="center">
+  
+  <li>Go in the lib folder</li>
+  <p align="center">
   <img src="Resources/8.png" width="950" title="Circuit Diagram"
 </p>
-                 
-   <p align="center">
+  <li>save in the lib folder as qpico.py</li>
+  <p align="center">
   <img src="Resources/9.png" width="950" title="Circuit Diagram"
 </p>
+    
+    
+  </ol> 
+  </li>
+  
+  
+   
+     
+  
+   
+   
+       
+   
+         
+           
+             
+   
+               
+   
+                 
+   
   
   
   
