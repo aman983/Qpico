@@ -20,7 +20,7 @@ Simulating a Quanutum Computer on Raspberry pi Pico
     <li>GND to GND</li>
     </ol> </li>
   <p align="center">
-  <img src="pico circuit.jpg" width="350" title="hover text"
+  <img src="pico circuit.jpg" width="350" title="Circuit Diagram"
 </p>
 </ol>
 <pre><code>coppy command</code></pre>
