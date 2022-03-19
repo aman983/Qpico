@@ -31,6 +31,44 @@ Simulating a Quanutum Computer on Raspberry pi Pico
   </li>
   
   
+   <p align="center">
+  <img src="Resources/1.png" width="950" title="Circuit Diagram"
+</p>
+     
+   <p align="center">
+  <img src="Resources/2.png" width="950" title="Circuit Diagram"
+</p>
+   
+   <p align="center">
+  <img src="Resources/3.png" width="950" title="Circuit Diagram"
+</p>
+       
+   <p align="center">
+  <img src="Resources/4.png" width="950" title="Circuit Diagram"
+</p>
+         
+   <p align="center">
+  <img src="Resources/5.png" width="950" title="Circuit Diagram"
+</p>
+           
+   <p align="center">
+  <img src="Resources/6 ctrl+shif+s.png" width="950" title="Circuit Diagram"
+</p>
+             
+   <p align="center">
+  <img src="Resources/7.png" width="950" title="Circuit Diagram"
+</p>
+               
+   <p align="center">
+  <img src="Resources/8.png" width="950" title="Circuit Diagram"
+</p>
+                 
+   <p align="center">
+  <img src="Resources/9.png" width="950" title="Circuit Diagram"
+</p>
+  
+  
+  
  <br> <li><b>Circuit connections</b> <ol>
     <li>Pin 0 to SDA</li>
     <li>Pin 1 to SCL</li>
@@ -43,6 +81,7 @@ Simulating a Quanutum Computer on Raspberry pi Pico
   <img src="pico circuit.jpg" width="350" title="Circuit Diagram"
 </p>
 
+      
   
   
   <li>
