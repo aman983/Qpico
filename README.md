@@ -24,7 +24,7 @@ Simulating a Quanutum Computer on Raspberry pi Pico
 
   <br><li>
     <b>Install libraries for Qpico</b> 
-    <ol><li>Click on tools / manage packages</li>
+    <ol><li>Click on tools -> manage packages</li>
    <p align="center">
   <img src="Resources/1.png" width="950" title="Circuit Diagram"
 </p>
