@@ -9,9 +9,19 @@ Simulating a Quanutum Computer on Raspberry pi Pico
 
 # How to get started!
 <ol>
+ 
+
   <li><b>Install libraries for Qpico</b> <ol><li>add steps</li></ol> </li>
   <li><b>How to simulate on Qpico</b> <ol><li>add steps</li></ol> </li>
-  <li><b>Circuit connections</b> <ol><li>add steps</li></ol> </li>
+  <li><b>Circuit connections</b> <ol>
+    <li>Pin 0 to SDA</li>
+    <li>Pin 1 to SCL</li>
+    <li>3.3v to VCC</li>
+    <li>GND to GND</li>
+    </ol> </li>
+  <p align="center">
+  <img src="pico circuit.jpg" width="350" title="hover text"
+</p>
 </ol>
 <pre><code>coppy command</code></pre>
   
