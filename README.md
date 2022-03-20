@@ -39,12 +39,9 @@ Simulating a Quanutum Computer on Raspberry pi Pico
   <img src="Resources/4.png" width="950" title="Circuit Diagram"
 </p>
     
-  <li>Download the repository and open the simulator.py with micropython </li>
-  <p align="center">
-  <img src="Resources/5.png" width="950" title="Circuit Diagram"
-</p>
+ 
     
-  <li>Press <code>Ctrl+Shift+s</code> on keyboard</li>
+  <li>open the simulator.py from the repository in Thonny and press <code>Ctrl+Shift+s</code> on keyboard</li>
   <p align="center">
   <img src="Resources/6 ctrl+shif+s.png" width="950" title="Circuit Diagram"
 </p>
